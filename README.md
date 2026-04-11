@@ -44,7 +44,7 @@ genai-resume-analyzer/
 
 ## 🚀 How to Run Locally
 
-1. Clone the repo:git clone https://github.com/your-username/genai-resume-analyzer.git
+1. Clone the repo:git clone https://github.com/mohit9003/genai-resume-analyzer.git
 
 cd genai-resume-analyzer
 
