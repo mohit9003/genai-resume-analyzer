@@ -103,9 +103,9 @@ streamlit run app.py
 ## 👨‍💻 Author
 
 **Mohit Tiwari**
-----
+------
 ---
 
 ## ⭐ If you like this project, give it a star!
-💣 Pro Tips (important)
+💣hii
  Hii
